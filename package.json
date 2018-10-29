@@ -1,0 +1,16 @@
+{
+  "name": "06-websever",
+  "version": "1.0.0",
+  "description": "WebServer y Despliegue en Heroku",
+  "main": "app.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jorge Cortés",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "hbs": "^4.0.1"
+  }
+}
